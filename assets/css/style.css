@@ -1,0 +1,43 @@
+body {
+  font-family: 'Open Sans';
+  padding-top: 50px; /*ancho del nav*/
+}
+
+.navbar-brand img{
+  width: 180px;
+}
+.navbar-nav * {
+  text-align: right;
+}
+
+:root{
+  --main-bg-color: #E83E8C;
+}
+
+.pink{
+  background-color: var(--main-bg-color);
+}
+
+.icons-section {
+  color: #ffffff;
+  background-color:#17A2B8;
+}
+
+.icons-section h3{
+  font-size: 3em;
+  vertical-align: middle;
+}
+
+.icons-section i{
+  vertical-align: middle;
+}
+
+footer img{
+  width: 5%;
+  padding: 1px;
+}
+
+.tarjeta{
+  height: 220px;
+  width: auto;
+}
